@@ -1,0 +1,236 @@
+.header{
+    background-color: #fff9f3 !important;
+}
+.header-img{
+    padding-top: 10px;
+}
+.nav{
+    padding-top: 30px;
+}
+.nav-link{
+    color: #657781;
+}
+.nav-link:hover{
+    color: #ffc178;
+}
+ul li .btn {
+    border-radius: 25px;
+    border: 1px solid #ffffff; 
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color: #ffc178;
+    font-weight: 500;
+}
+.active{
+    font-weight: 500;
+    color: #ffc178 !important;
+    text-decoration: underline;
+}
+.bg-image{
+    background-image: url(../images/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 726px;
+    width: 100%;
+}
+.heading-1{
+    color: #ffc178;
+    font-size: 40px;
+}
+.text-p{
+    color: #657781;
+    font-size: 18px;
+}
+.but-b{
+    border-radius: 25px;
+    border: 1px solid #ffc178; 
+    padding: 10px 15px;
+    background-color: #ffc178;
+    color: #ffffff;
+    font-weight: 500;
+}
+.space{
+    padding-top: 154px;
+}
+.chg{
+    color: #252c3a;
+    font-weight: bold;
+}
+.somet{
+    color: #5a6e79;
+    margin: 25px 0px;
+}
+.bgg-1{
+    background: #f9703a;
+    height: 350px;
+    width: 100%;
+}
+.bgg-2{
+    background: #80be41;
+    height: 350px;
+    width: 100%;
+}
+.bgg-3{
+    background: #ffb157;
+    height: 350px;
+    width: 100%;
+}
+.edu{
+    text-align: center;
+    color: #ffffff;
+}
+.expans{
+    color: #252c3a;
+}
+.sugar{
+    color: #657882;
+}
+.spa1{
+    color: #ffba00;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: justify;
+}
+.spa2{
+    color: #ff5f72;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: justify;
+}
+.spa3{
+    color: #43cb83;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: justify;
+}
+.spa4{
+    color: #ffba00;
+}
+.spa5{
+    color: #ff5f72;
+}
+.spa6{
+    color: #43cb83;
+}
+.some-space{
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+.jim{
+    color: #5a6e79;
+    font-weight: 400;
+}
+.jim:hover{
+    text-decoration: none;
+}
+.card-title{
+    color: #252c3a;
+}
+.wrapper{
+    background-color: #252c3a;
+    height: 400px !important;
+    width: 100% !important;
+}
+.spectrum{
+    color: #969595;
+    font-weight: 500;
+    text-align: left;
+    font-size: 13px;
+}
+.sub{
+    color: #4a4a4a;
+}
+.spaces{
+    padding-top: 100px !important;
+    padding-bottom: 75px !important;
+}
+.you{
+    color: #5a5d64;
+    font-weight: 600;
+    font-size: 14px;
+}
+.me{
+    color: #ffffff;
+}
+.move-down{
+    margin-top: 30px;
+}
+.move-downs{
+    margin-top: 20px;
+}
+.move-downss{
+    margin-top: 35px;
+}
+.avata ul li{
+    list-style-type: none;
+}
+.struct{
+    padding: 0px;
+}
+.mr-sm-2{
+    border: none !important;
+}
+input.form-control.mr-sm-2{
+    margin: 0px !important;
+}
+.spa{
+    background: #ffc178 !important;
+    color: #fff7ed;
+    font-weight: 500;
+    padding: 10px 22px;
+    position: relative !important;
+    top: 2px !important;
+    left: 7px !important;
+}
+.your{
+    margin-bottom: 17px;
+    color: #5a5d64;
+    font-weight: 600;
+    font-size: 14px;
+}
+.move-slow{
+    margin-top: 32px;
+}
+.main-3{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#doit {
+     background-image: url(../images/3.png); 
+     background-repeat: no-repeat; 
+     text-align: center; 
+     height: 275px; 
+     background-position: center;
+    }
+#owl{
+    background-image: url(../images/2.png); 
+     background-repeat: no-repeat; 
+     text-align: center; 
+     height: 275px; 
+     background-position: center;
+}
+#pkj{
+    background-image: url(../images/1.png); 
+     background-repeat: no-repeat; 
+     text-align: center; 
+     height: 275px; 
+     background-position: center;
+}
+.effect-duke {
+	background: -webkit-linear-gradient(-45deg, #34495e 0%,#cc6055 100%);
+	background: linear-gradient(-45deg, #34495e 0%,#cc6055 100%);
+} 
+.effect-duke img{
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+}
+
+.effect-duke:hover img {
+	opacity: 0.5;
+}
+@media only screen and (max-width: 2560px) and (min-width:2559px){
+    .bg-image{
+        height: 1379px !important;
+    }
+}
